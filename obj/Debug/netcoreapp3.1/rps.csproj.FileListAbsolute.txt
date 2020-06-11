@@ -1,0 +1,13 @@
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\bin\Debug\netcoreapp3.1\rps.exe
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\bin\Debug\netcoreapp3.1\rps.deps.json
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\bin\Debug\netcoreapp3.1\rps.runtimeconfig.json
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\bin\Debug\netcoreapp3.1\rps.runtimeconfig.dev.json
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\bin\Debug\netcoreapp3.1\rps.dll
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\bin\Debug\netcoreapp3.1\rps.pdb
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\obj\Debug\netcoreapp3.1\rps.csprojAssemblyReference.cache
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\obj\Debug\netcoreapp3.1\rps.csproj.CoreCompileInputs.cache
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\obj\Debug\netcoreapp3.1\rps.AssemblyInfoInputs.cache
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\obj\Debug\netcoreapp3.1\rps.AssemblyInfo.cs
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\obj\Debug\netcoreapp3.1\rps.dll
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\obj\Debug\netcoreapp3.1\rps.pdb
+C:\Users\Antoxa_1337\Desktop\iTransition 2020\task_3\rps\rps\obj\Debug\netcoreapp3.1\rps.genruntimeconfig.cache
