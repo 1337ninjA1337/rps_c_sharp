@@ -10,6 +10,17 @@ namespace rps
     {
         static void Main(string[] args)
         {
+            for(int i = 0; i < args.Length; i++)
+            {
+                for(int j = i+1; j < args.Length; j++)
+                {
+                    if (args[i] == args[j])
+                    {
+                        Console.WriteLine("Wrong arguments");
+                        return;
+                    }
+                }
+            }
             if (args.Length % 2 != 0 && args.Length >2 )
             {
                 var key = new byte[32];
